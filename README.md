@@ -1,2 +1,2 @@
 # RNA-seq-
-From Raw data to final outputs
+Raw data to outputs
